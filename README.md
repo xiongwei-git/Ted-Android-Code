@@ -23,3 +23,8 @@ Android示例集，旨在收集我个人在开发学习过程中，结合他人�
 ###手势滑动返回
 * [仿格瓦拉手势滑动返回](https://github.com/Issacw0ng/SwipeBackLayout "支持手势滑动返回的Activity")
 * [支持Fragment的手势滑动返回](http://pan.baidu.com/s/1qW0UPJY "支持Activity和Fragment")
+
+
+##<a name="tool"/>工具类库
+###消息传递
+* [EventBus支持页面、线程、服务之间传递消息](https://github.com/greenrobot/EventBus "支持页面、线程、服务之间传递消息")  
