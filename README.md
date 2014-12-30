@@ -11,7 +11,7 @@ Android示例集，旨在收集我个人在开发学习过程中，结合他人�
 * [个性化控件](#widget)
 * [工具类库](#tool)
 * [优秀项目](#project)
-* [牛人博客](#people)
+* [牛人博客](#blog)
 
 
 
@@ -32,3 +32,15 @@ Android示例集，旨在收集我个人在开发学习过程中，结合他人�
 
 ###动画效果
 * [23种Fragment切换的动画演示](https://github.com/DesarrolloAntonio/FragmentTransactionExtended "23种Fragment切换的动画演示") 
+
+
+##<a name="project"/>优秀项目
+
+
+##<a name="blog"/>牛人博客
+###技术文章
+
+###牛人博客
+* [代码家(不少牛逼的库都是出自该作者)](http://daimajia.com/ "代码家") 
+
+
