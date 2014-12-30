@@ -35,6 +35,9 @@ Android示例集，旨在收集我个人在开发学习过程中，结合他人�
 
 
 ##<a name="project"/>优秀项目
+###开源项目集
+* [android-open-project(我用到的不少开源库都是来自于这里)](https://github.com/Trinea/android-open-project "android-open-project") 
+
 
 
 ##<a name="blog"/>牛人博客
