@@ -35,9 +35,24 @@
 
 
 ##<a name="project"/>优秀项目
-###开源项目集
+###开源项目集Github
 * [android-open-project(我用到的不少开源库都是来自于这里)](https://github.com/Trinea/android-open-project "android-open-project") 
+* [android-open-project-analysis(针对部分开源项目的分析，值得研究学习)](https://github.com/android-cn/android-open-project-analysis "android-open-project-analysis") 
+* [AndroidElementals(同样是对开源控件的一个整理)](https://github.com/cesards/AndroidElementals "AndroidElementals") 
 
+
+###开源项目集网站
+* [Android Arsenal(来自trinea的推荐，很不错)](https://android-arsenal.com/ "Android Arsenal")
+* [Android Libraries and Resources(来自trinea的推荐，很不错)](http://alamkanak.github.io/android-libraries-and-resources/ "Android Libraries and Resources")
+* [Appance(来自trinea的推荐，很不错)](http://www.appance.com/ "appance")
+* [23code](http://www.23code.com/ "23code")
+
+
+
+###开源项目集App
+* [Libraries for developers](https://play.google.com/store/apps/details?id=com.desarrollodroide.repos "Libraries")
+* [DevAppsDirect](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect "DevAppsDirect")
+* [23code](https://play.google.com/store/apps/details?id=com.ttcode.appdirect "23code")
 
 
 ##<a name="blog"/>牛人博客
