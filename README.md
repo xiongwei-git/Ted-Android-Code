@@ -28,3 +28,7 @@ Android示例集，旨在收集我个人在开发学习过程中，结合他人�
 ##<a name="tool"/>工具类库
 ###消息传递
 * [EventBus支持页面、线程、服务之间传递消息](https://github.com/greenrobot/EventBus "支持页面、线程、服务之间传递消息")  
+
+
+###动画效果
+* [23种Fragment切换的动画演示](https://github.com/DesarrolloAntonio/FragmentTransactionExtended "23种Fragment切换的动画演示") 
