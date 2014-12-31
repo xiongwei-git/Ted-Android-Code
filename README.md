@@ -17,7 +17,11 @@
 
 ##<a name="widget"/>个性化控件
 ###下拉刷新
-* [V4包自带下拉刷新](https://github.com/xiongwei-git/V4PullToRefreshDemo "系统自带的下拉刷新")  
+* [V4包自带下拉刷新](https://github.com/xiongwei-git/V4PullToRefreshDemo "系统自带的下拉刷新")
+
+
+###SwitchButton
+* [仿IOS的SwitchButton](https://github.com/Issacw0ng/SwitchButton "支持滑动和动画")  
 
 
 ###手势滑动返回
