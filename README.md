@@ -59,6 +59,11 @@
 * [23code](https://play.google.com/store/apps/details?id=com.ttcode.appdirect "23code")
 
 
+###完整开源项目作品
+* [文件浏览器](https://github.com/nexes/Android-File-Manager "Android-File-Manager")
+
+
+
 ##<a name="blog"/>牛人博客
 ###技术文章
 
